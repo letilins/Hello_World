@@ -1,0 +1,15 @@
+/Users/leticialinssilva/Documents/C#_VScode/bin/Debug/net6.0/C#_VScode
+/Users/leticialinssilva/Documents/C#_VScode/bin/Debug/net6.0/C#_VScode.deps.json
+/Users/leticialinssilva/Documents/C#_VScode/bin/Debug/net6.0/C#_VScode.runtimeconfig.json
+/Users/leticialinssilva/Documents/C#_VScode/bin/Debug/net6.0/C#_VScode.dll
+/Users/leticialinssilva/Documents/C#_VScode/bin/Debug/net6.0/C#_VScode.pdb
+/Users/leticialinssilva/Documents/C#_VScode/obj/Debug/net6.0/C#_VScode.csproj.AssemblyReference.cache
+/Users/leticialinssilva/Documents/C#_VScode/obj/Debug/net6.0/C#_VScode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leticialinssilva/Documents/C#_VScode/obj/Debug/net6.0/C#_VScode.AssemblyInfoInputs.cache
+/Users/leticialinssilva/Documents/C#_VScode/obj/Debug/net6.0/C#_VScode.AssemblyInfo.cs
+/Users/leticialinssilva/Documents/C#_VScode/obj/Debug/net6.0/C#_VScode.csproj.CoreCompileInputs.cache
+/Users/leticialinssilva/Documents/C#_VScode/obj/Debug/net6.0/C#_VScode.dll
+/Users/leticialinssilva/Documents/C#_VScode/obj/Debug/net6.0/refint/C#_VScode.dll
+/Users/leticialinssilva/Documents/C#_VScode/obj/Debug/net6.0/C#_VScode.pdb
+/Users/leticialinssilva/Documents/C#_VScode/obj/Debug/net6.0/C#_VScode.genruntimeconfig.cache
+/Users/leticialinssilva/Documents/C#_VScode/obj/Debug/net6.0/ref/C#_VScode.dll
